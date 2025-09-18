@@ -1,0 +1,27 @@
+ASSIGNMENT 1
+
+6.2
+a) world (hex values) - 77 6F 72 6C 64
+b) hello world starting position in hello_world.doc - 00001840
+c) Position of image data:         
+hello_world(1bit).bmp - 0x00000017
+hello_world(24bit).bmp - 0x00000036
+---------
+6.3 
+After changing the extension from .txt to .exe and running the file - "nothing" happens. The file still runs in notepad (the "real" file type didn't change)
+The bytes in it didn't change (after opening in hex viewer)
+After changing permission settings, when trying to edit the file - the changes cannot be saved on this file, Windows creates a new file for this. This one remains untouched (read-only)
+---------
+7
+a) 2 disks
+b) Disk1: WD Blue SN580; 1 TB; read speed 4150 MB/s; write speed 4150 MB/s 
+Disk2: WD PC SN740 SDDPMQD-512G-1101; 512 GB; 5000 MB/s; 4000 MB/s
+c) Disk1 - 4 partitions: 
+I. EFI System Partition, 350 MB, functions as a bootloader 
+II. C:, 475 GB, contains OS and user data
+III. Recovery Partition, 500 GB, used for system repair
+IV. Microsoft Reserved Partition, 16 MB,  stores Boot Manager/Configuration Data, BitLocker files and is used by Windows (hidden)
+
+Disk2 - 1 partition: D:, 932GB, data storage 
+
+

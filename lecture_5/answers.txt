@@ -1,0 +1,49 @@
+4.1 
+
+from the ifconfig.me - 2001:1c00:494:7300:fd95:ad89:711d:e8c7 
+
+from cmd - 192.168.178.207
+
+They are different (IPv6 vs IPv4)
+
+Default gateway: 192.168.178.1
+
+4.2
+
+84.30.66.221 and 145.138.222.21
+
+VPN provides the "IP receiver" (for example a website) with a different IP than your public one
+
+
+4.3
+
+IP and gateway are private
+
+4.4
+
+I don't know why, but even after turning the VPN off, the website uses the VPN's IP:
+
+ "hostname": "84-30-66-221.cable.dynamic.v4.ziggo.nl",
+  "city": "Maastricht",
+  "region": "Limburg",
+  "country": "NL",
+  "loc": "50.8483,5.6889",
+  "org": "AS33915 Vodafone Libertel B.V.",
+  "postal": "6211"
+
+4.5
+
+First address is my gateway, and the end address is a public IP
+
+4.6
+
+Checked for Opera:
+"ip": "35.214.176.215",
+  "hostname": "215.176.214.35.bc.googleusercontent.com",
+  "city": "Groningen",
+  "region": "Groningen",
+  "country": "NL",
+  "loc": "53.2192,6.5667",
+  "org": "AS19527 Google LLC",
+  "postal": "9711"
+

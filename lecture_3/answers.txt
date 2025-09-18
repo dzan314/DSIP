@@ -1,0 +1,20 @@
+
+
+ASSIGNMENT 2
+
+4)
+
+1. AMD Ryzen 7 8845HS; 8 cores, 3.8 GHz
+2. Samsung M425R2GA3PB0-CWMOL, 5600 MHz, 32GB
+3. NVIDIA GeForce RTX 4070, 8 GB
+4. NRCN17WW, last updated 11.04.2024
+
+5) 
+Booting order: Windows Boot Manager (SSD) -> USB HDD -> Network Boot 
+USB booting enabled
+
+6) 
+-Current (normal) screen resolution 2560x1600
+-Switching to portrait rotates the screen 90 degrees; could be helpful for reading smartphone-sized images or probably reading/writing long pieces of code (on a monitor, for a laptop not that usefull..)
+- after changing the resolution to 800x600 the image becomes pixelated, very hard to work with
+

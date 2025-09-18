@@ -1,0 +1,9 @@
+5. 
+201 drivers
+wifi and network drivers location: C:\WINDOWS\system32\mtkihvx.dll
+----------
+6.1 
+2.1% ; 2,091.0 MB (Opera)
+----------
+6.2 
+C:\Users\janek\AppData\Local\Programs\Opera GX
